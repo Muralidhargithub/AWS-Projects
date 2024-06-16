@@ -63,43 +63,43 @@ The analysis was conducted using SQL for data manipulation and Python for data v
 # Visualizations
 
 ### State-wise Analysis
-![State-wise Analysis](path/to/state_wise_analysis.png)
+![State-wise Analysis](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Regional Hotspots
-![Regional Hotspots](path/to/regional_hotspots.png)
+![Regional Hotspots](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Trend Classification
-![Trend Classification](path/to/trend_classification.png)
+![Trend Classification](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Correlation and Relationship Analysis
-![Correlation Matrix](path/to/correlation_matrix.png)
+![Correlation Matrix](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Cross-State Comparisons
-![Cross-State Comparisons](path/to/cross_state_comparisons.png)
+![Cross-State Comparisons](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Seasonal Patterns
-![Seasonal Patterns](path/to/seasonal_patterns.png)
+![Seasonal Patterns](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Demographic Analysis
-![Demographic Analysis](path/to/demographic_analysis.png)
+![Demographic Analysis](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Healthcare Utilization
-![Healthcare Utilization](path/to/healthcare_utilization.png)
+![Healthcare Utilization](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Environmental Factors
-![Environmental Factors](path/to/environmental_factors.png)
+![Environmental Factors](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Behavioral Insights
-![Behavioral Insights](path/to/behavioral_insights.png)
+![Behavioral Insights](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Economic Impact Analysis
-![Economic Impact Analysis](path/to/economic_impact_analysis.png)
+![Economic Impact Analysis](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ### Longitudinal Analysis
-![Longitudinal Analysis](path/to/longitudinal_analysis.png)
+![Longitudinal Analysis](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 ## Workflow
-![Workflow](path/to/workflow_image.png)
+![Workflow](Comprehensive_Analysis_of_Respiratory_Virus/test.ipynb)
 
 # Installation
 
@@ -117,17 +117,12 @@ Follow these steps to install and run the project locally:
    cd respiratory-virus-ed-analysis
    ```
 
-3. **Install the required dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Jupyter Notebook**:
+3. **Run the Jupyter Notebook**:
    ```bash
    jupyter notebook
    ```
 
-5. **Run the interactive dashboard**:
+4. **Run the interactive dashboard**:
    ```bash
    streamlit run app.py
    ```
